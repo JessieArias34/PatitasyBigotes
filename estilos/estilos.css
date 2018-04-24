@@ -1,0 +1,170 @@
+*{
+    border:0;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background: rgb(206, 157, 157);
+
+}
+
+#contenedor{
+    height: 660px;
+    width: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+    
+header, #banner, #noticias{
+    background: #fff;
+    width: 1000px;
+    height: 200px;
+}
+
+#banner{
+    height: 80px;
+    background-color: rgb(65, 60, 70);
+}
+
+#noticias{
+    background-color: #fff;
+    height: 225px;
+    width: 970px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+#redes{
+    background-color: #666;
+    height: 200px;
+    width: 1000px;
+}
+
+footer{
+    background: rgb(19, 17, 17);
+    width: 1000px;
+    height: 60px;
+}
+
+footer p{
+    font-family: arial;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+#noticias #noticia1{
+    background-color: rgb(173, 83, 113);
+    width: 315px;
+    height:215px;
+    display: inline-block;
+    vertical-align: top;
+
+
+}
+
+#noticias #noticia2{
+    background-color: rgb(173, 83, 168);
+    width: 315px;
+    height:215px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+#noticias #noticia3{
+    background-color: rgb(48, 1, 17);
+    width: 315px;
+    height:215px;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+
+.espacio{
+    width: 970px;
+    height: 5px;
+    background-color: #fff;
+}
+
+.text{
+    display: inline-block;
+    font-family: fantasy;
+    padding-left: 200px;
+    font-size: 70px;
+         
+}
+ 
+.navegación1{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: top;
+
+}    
+    
+
+
+
+.navegación2{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 25px;
+    margin-top: 10px;    
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+   vertical-align: top; 
+}
+
+
+.navegación3{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 70px;
+    margin-top: 10px;
+    width: 50px;
+    height: 80px;
+    display: inline-block;
+    vertical-align: top;    
+}
+
+.redessociales{
+   margin-left: 450px;
+   margin-top: 20px;
+   margin-right: 10px;
+   display: inline-block;
+   
+
+}
+
+.redessociales2{
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    
+ 
+ }
+
+ .redessociales3{
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+ 
+ }
